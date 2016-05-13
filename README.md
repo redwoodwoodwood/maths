@@ -1,2 +1,0 @@
-# maths
-introducing senior functions
